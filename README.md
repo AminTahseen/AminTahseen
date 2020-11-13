@@ -4,7 +4,7 @@
 
 - I currently did my bachelors in Computer Science in the year 2020.
 - I try working on small and big projects related to mobile development and website development.
-- Currently working as a android app developer.
+- Currently working as an android app developer.
 
 <br />
 
