@@ -3,7 +3,7 @@
 ## I'm a computer science graduated and an application developer
 
 - I currently did my bachelors in Computer Science in the year 2020.
-- I try working on small and big projects related to mobile development and website development.
+- I try working on small and big projects related to mobile app development and web app development.
 - Currently working as an android app developer.
 
 <br />
