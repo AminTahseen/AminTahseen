@@ -2,7 +2,7 @@
 
 ## A Learner & An Application Developer
 
-- I currently did my bachelors in Computer Science in the year 2020.
+- I currently did my bachelors in computer science in the year 2020.
 - I try working on small and big projects related to mobile app development and web app development.
 - Currently working as an android app developer.
 
