@@ -1,4 +1,4 @@
-### Hey there!, I'm Amin
+### Hello World, I'm Amin
 
 ## A Learner & An Application Developer
 
