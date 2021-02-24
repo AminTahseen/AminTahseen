@@ -1,6 +1,6 @@
 ### Hello World, I'm Amin
 
-## A Quick Learner & An Application Developer
+## A Quick Learner & An Software Developer
 
 - I did my bachelors in computer science in the year 2020.
 - I work on projects related to mobile app development and web app development.
