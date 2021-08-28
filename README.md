@@ -1,4 +1,4 @@
-### Hello World, I'm Amin
+### Greetings, I'm Amin
 
 ## A Quick Learner & A Software Developer
 
