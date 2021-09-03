@@ -5,7 +5,7 @@
 - I did my bachelors in computer science in the year 2020.
 - I work on projects related to mobile app development and web app development.
 - Currently working as an android app developer.
-- Visit my website, <a href="#">Devlogic Development<a/>
+- Visit my website, <a href="https://devlogicdevelopment.netlify.app/">Devlogic Development<a/>
 
 <br />
 
