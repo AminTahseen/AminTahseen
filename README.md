@@ -1,6 +1,6 @@
 ### Greetings, I'm Amin
 
-## A Quick Learner & A Software Developer
+## A Software Engineer
 
 - I did my bachelors in computer science in the year 2020.
 - I work on projects related to mobile app development and web app development.
