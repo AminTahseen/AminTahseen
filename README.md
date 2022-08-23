@@ -1,5 +1,5 @@
 ### Greetings, I'm Amin
-<img align="left" alt="CWARS" width="26px" src="https://www.codewars.com/users/AminTahseen/badges/small" />
+<img align="left" alt="CWARS" src="https://www.codewars.com/users/AminTahseen/badges/small" />
 
 ## A Software Engineer
 
