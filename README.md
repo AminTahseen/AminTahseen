@@ -1,5 +1,6 @@
 ### Greetings, I'm Amin
-https://www.codewars.com/users/AminTahseen/badges/small
+<img align="left" alt="CWARS" width="26px" src="https://www.codewars.com/users/AminTahseen/badges/small" />
+
 ## A Software Engineer
 
 - I did my bachelors in computer science in the year 2020.
