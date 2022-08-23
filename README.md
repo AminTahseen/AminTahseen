@@ -1,6 +1,4 @@
 ### Greetings, I'm Amin
-<img align="left" alt="CWARS" src="https://www.codewars.com/users/AminTahseen/badges/small" />
-<br />
 
 ## A Software Engineer
 
@@ -8,6 +6,8 @@
 - I work on projects related to mobile app development and web app development.
 - Currently working as an android app developer.
 - Visit my website, <a href="https://devlogicdevelopment.netlify.app/">Devlogic Development<a/>
+- <img align="left" alt="CWARS" src="https://www.codewars.com/users/AminTahseen/badges/small" />
+
 
 <br />
 
