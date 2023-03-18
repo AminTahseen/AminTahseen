@@ -5,7 +5,7 @@
 - I did my bachelors in computer science in the year 2020.
 - I work on projects related to mobile app development and web app development.
 - Currently working as an android app developer.
-- On a goal to become a principal software engineer.
+- On a journey to become a full stack mobile app developer.
 - Visit my website, <a href="https://www.amintahseen.com">www.amintahseen.com<a/>
 - <img align="left" alt="CWARS" src="https://www.codewars.com/users/AminTahseen/badges/small" />
 
