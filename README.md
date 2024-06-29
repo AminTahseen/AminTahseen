@@ -5,7 +5,7 @@
 - I did my bachelors in computer science in the year 2020.
 - I work on projects related to native android and flutter.
 - Currently working as mid level android app developer.
-- On a journey to become a full stack mobile app developer.
+- On a journey to become a native android and ios developer.
 - Visit my website, <a href="https://www.amintahseen.com">www.amintahseen.com<a/>
 
 
