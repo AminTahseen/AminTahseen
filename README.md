@@ -7,10 +7,7 @@
 - Currently working as an android app developer.
 - On a journey to become a native android and ios developer.
 - Visit my website, <a href="https://www.amintahseen.com">www.amintahseen.com<a/>
-
-
 <br />
-
 ### Languages:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -21,6 +18,9 @@
 ![Ktor](https://img.shields.io/badge/Ktor-0096FF?style=for-the-badge&logo=ktor&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-E34C26?style=for-the-badge&logo=xml&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logo
 <br />
 ### Tools:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
