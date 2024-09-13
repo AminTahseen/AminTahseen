@@ -21,9 +21,7 @@
 ![Ktor](https://img.shields.io/badge/Ktor-0096FF?style=for-the-badge&logo=ktor&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-E34C26?style=for-the-badge&logo=xml&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
 <br />
-
 ### Tools:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
