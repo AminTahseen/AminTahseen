@@ -7,7 +7,6 @@
 - Currently working as an android app developer.
 - On a journey to become a native android and ios developer.
 <br />
-
 ### Languages:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
