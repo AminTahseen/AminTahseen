@@ -6,6 +6,7 @@
 - I work on projects related to native android and flutter.
 - Currently working as an android app developer.
 - On a journey to become a native android and ios developer.
+- https://about.me/amintahseen
 <br />
 
 ### Languages:
